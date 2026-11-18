@@ -4,7 +4,7 @@
 
 ## 功能说明
 
-本启动器主要为AI对话新增llama-cpp-python模型支持，在不启动ComfyUI的情况下，用户可以直接在启动器中使用llama-cpp-python模型进行对话，完成本地提示词生成和skill调用。（可直接调用[ComfyUI-omni-llm](https://github.com/Qo-qiao/ComfyUI-omni-llm)中的skill来使用
+本启动器主要为AI对话新增llama-cpp-python模型支持，在不启动ComfyUI的情况下，用户可以直接在启动器中使用llama-cpp-python模型进行对话，完成本地提示词生成和skill调用。（可直接调用[ComfyUI-omni-llm](https://github.com/Qo-qiao/ComfyUI-omni-llm)中的skill来使用）
 
 
 ## 安装说明
